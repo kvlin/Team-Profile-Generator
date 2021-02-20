@@ -1,0 +1,17 @@
+.team {
+    text-align: center;
+    padding-top: 0.5em; 
+    padding-bottom: 0.5em; 
+    margin-bottom: 0.5em;
+    margin: auto;
+    background-color: rgb(235, 235, 235);
+    color:rgb(2, 109, 2);
+}
+.card {
+    margin: 1em 0em 0em 1em;
+    display:inline-block
+}
+.card-body {
+    
+    background-color:rgb(191, 214, 191)
+}
