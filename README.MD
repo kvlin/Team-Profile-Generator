@@ -21,7 +21,7 @@
 <br>
 <h1>Usage</h1>
 <p>Link to demo video: https://drive.google.com/file/d/1J61IMpmDOShI9WlnkBb23PPihxT4idom/view?usp=sharing</p>
-<p>Generated HTML page in the Demo Video: https://klin4994.github.io/Team-Profile_Generator/Generated_in_Demo.html</p>
+<p>Generated HTML page in the Demo Video: https://klin4994.github.io/Team-Profile-Generator/Generated_in_Demo.html</p>
 <br>
 <h1>Contributing</h1>
 <p>Open to contribution. Pull requests welcome.</p>
