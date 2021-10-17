@@ -21,7 +21,7 @@
 <br>
 <h1>Usage</h1>
 <p>Link to demo video: https://drive.google.com/file/d/1J61IMpmDOShI9WlnkBb23PPihxT4idom/view?usp=sharing</p>
-<p>Generated HTML page in the Demo Video: https://klin4994.github.io/Team-Profile-Generator/Generated_in_Demo.html</p>
+<p>Generated HTML page in the Demo Video: https://kvlin.github.io/Team-Profile-Generator/Generated_in_Demo.html</p>
 <br>
 <h1>Contributing</h1>
 <p>Open to contribution. Pull requests welcome.</p>
@@ -30,7 +30,7 @@
 <p>
 <br>
 <h1>Questions</h1>
-<p><span>My Github profile: </span><a href="https://github.com/klin4994" class="col-12">https://github.com/klin4994</a></p>
+<p><span>My Github profile: </span><a href="https://github.com/klin4994" class="col-12">https://github.com/kvlin</a></p>
 <p><span>My Email address: </span><a href = "mailto: kevlin129@hotmail.com">kevlin129@hotmail.com</a></p>
 </p>
   
